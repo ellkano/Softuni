@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HolidaysTwoDates", "01.HolidaysTwoDates\01.HolidaysTwoDates.csproj", "{7E6F8F47-4F97-4BF2-816A-984CE3A6A49A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DoublePalindromes", "02.DoublePalindromes\02.DoublePalindromes.csproj", "{5E1D2AA8-A4FF-43D8-8314-7272580651DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6F8F47-4F97-4BF2-816A-984CE3A6A49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6F8F47-4F97-4BF2-816A-984CE3A6A49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6F8F47-4F97-4BF2-816A-984CE3A6A49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6F8F47-4F97-4BF2-816A-984CE3A6A49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1D2AA8-A4FF-43D8-8314-7272580651DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1D2AA8-A4FF-43D8-8314-7272580651DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1D2AA8-A4FF-43D8-8314-7272580651DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1D2AA8-A4FF-43D8-8314-7272580651DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
